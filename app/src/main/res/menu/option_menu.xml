@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Like"
+        android:title="Notifications"
+        app:showAsAction="always"
+        android:icon="@drawable/heart"/>
+    <item
+        android:id="@+id/message"
+        android:title="Messages"
+        app:showAsAction="always"
+        android:icon="@drawable/send"/>
+</menu>
